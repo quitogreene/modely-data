@@ -1,22 +1,11 @@
 {
-  "updated": "2026-05-27T19:59:51.459Z",
-  "count": 13,
+  "updated": "2026-05-28T17:54:27.823Z",
+  "count": 16,
   "cars": [
-    {
-      "year": 2024,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 33100,
-      "miles": 43851,
-      "city": "Gilroy",
-      "state": "CA",
-      "vin": "7SAYGDEDXRF010411",
-      "hw": 4,
-      "url": "https://www.tesla.com/my/order/7SAYGDEDXRF010411?titleStatus=used&redirect=no"
-    },
     {
       "year": 2023,
       "trim": "Model Y Rear-Wheel Drive",
-      "price": 33600,
+      "price": 33300,
       "miles": 28112,
       "city": "Gilroy",
       "state": "CA",
@@ -36,20 +25,9 @@
       "url": "https://www.tesla.com/my/order/7SAYGDED1RF097311?titleStatus=used&redirect=no"
     },
     {
-      "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 36400,
-      "miles": 28310,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEF7PF798157",
-      "hw": 4,
-      "url": "https://www.tesla.com/my/order/7SAYGDEF7PF798157?titleStatus=used&redirect=no"
-    },
-    {
       "year": 2024,
       "trim": "Performance All-Wheel Drive",
-      "price": 36600,
+      "price": 36000,
       "miles": 32621,
       "city": "McClellan Park",
       "state": "CA",
@@ -59,8 +37,19 @@
     },
     {
       "year": 2024,
+      "trim": "Model Y Rear-Wheel Drive",
+      "price": 36900,
+      "miles": 24863,
+      "city": "Fremont",
+      "state": "CA",
+      "vin": "7SAYGDED9RF055968",
+      "hw": 4,
+      "url": "https://www.tesla.com/my/order/7SAYGDED9RF055968?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 37400,
+      "price": 37000,
       "miles": 30493,
       "city": "Gilroy",
       "state": "CA",
@@ -71,7 +60,7 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 37900,
+      "price": 37500,
       "miles": 21085,
       "city": "Fremont",
       "state": "CA",
@@ -82,7 +71,7 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 38300,
+      "price": 37900,
       "miles": 20358,
       "city": "Fremont",
       "state": "CA",
@@ -91,9 +80,20 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEE9RF988018?titleStatus=used&redirect=no"
     },
     {
+      "year": 2024,
+      "trim": "Performance All-Wheel Drive",
+      "price": 38400,
+      "miles": 37650,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEFXRF029395",
+      "hw": 4,
+      "url": "https://www.tesla.com/my/order/7SAYGDEFXRF029395?titleStatus=used&redirect=no"
+    },
+    {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 39100,
+      "price": 38600,
       "miles": 23761,
       "city": "Fremont",
       "state": "CA",
@@ -104,13 +104,46 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 39100,
+      "price": 38600,
       "miles": 16645,
       "city": "Fremont",
       "state": "CA",
       "vin": "7SAYGDEE0RF069640",
       "hw": 4,
       "url": "https://www.tesla.com/my/order/7SAYGDEE0RF069640?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Performance All-Wheel Drive",
+      "price": 39000,
+      "miles": 13859,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEF3PF814600",
+      "hw": 4,
+      "url": "https://www.tesla.com/my/order/7SAYGDEF3PF814600?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Performance All-Wheel Drive",
+      "price": 40200,
+      "miles": 11413,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEF6PF921155",
+      "hw": 4,
+      "url": "https://www.tesla.com/my/order/7SAYGDEF6PF921155?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 41000,
+      "miles": 5914,
+      "city": "Fremont",
+      "state": "CA",
+      "vin": "7SAYGAEE2RF985170",
+      "hw": 4,
+      "url": "https://www.tesla.com/my/order/7SAYGAEE2RF985170?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
@@ -127,7 +160,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 41800,
-      "miles": 9806,
+      "miles": 9808,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGAEE6RF068667",
@@ -137,7 +170,7 @@
     {
       "year": 2026,
       "trim": "Long Range All-Wheel Drive",
-      "price": 48800,
+      "price": 48600,
       "miles": 28459,
       "city": "Fremont",
       "state": "CA",
