@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T01:00:23.805Z",
-  "count": 19,
+  "updated": "2026-05-30T04:00:21.934Z",
+  "count": 18,
   "cars": [
     {
       "year": 2023,
@@ -204,7 +204,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 39100,
-      "miles": 33836,
+      "miles": 33845,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE8RA260171",
@@ -243,28 +243,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/08b6ad3d-d881-4c07-ab9e-31baf3e58828",
       "url": "https://www.tesla.com/my/order/7SAYGDED6SF232935?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 40300,
-      "miles": 24870,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGAEE1RF065031",
-      "hw": 4,
-      "color": {
-        "code": "$PPSB",
-        "name": "Deep Blue Metallic"
-      },
-      "range": 266,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/bd807bbc-7826-4414-b7f3-894ef0e48f4d",
-      "url": "https://www.tesla.com/my/order/7SAYGAEE1RF065031?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
@@ -314,7 +292,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 40400,
-      "miles": 18540,
+      "miles": 18543,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE8RF034246",
@@ -336,7 +314,7 @@
       "year": 2024,
       "trim": "Long Range Rear-Wheel Drive",
       "price": 40600,
-      "miles": 19956,
+      "miles": 19960,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDED0RF122084",
@@ -358,7 +336,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 40700,
-      "miles": 21308,
+      "miles": 21315,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE9RF106135",
