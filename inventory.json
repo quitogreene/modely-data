@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T04:00:21.934Z",
+  "updated": "2026-05-30T07:00:21.336Z",
   "count": 18,
   "cars": [
     {
@@ -153,7 +153,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/7e331408-04f5-4b21-a52c-bc9da26edb99",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/185aef2e-6560-4086-b1eb-48969b80bb5b",
       "url": "https://www.tesla.com/my/order/7SAYGDEFXRF029395?titleStatus=used&redirect=no"
     },
     {
@@ -213,7 +213,7 @@
         "code": "$PR01",
         "name": "Ultra Red"
       },
-      "range": 261,
+      "range": 260,
       "lat": 38.64624,
       "lon": -121.409294,
       "metro": "McClellan Park, CA",
