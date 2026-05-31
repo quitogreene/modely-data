@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T01:00:22.012Z",
+  "updated": "2026-05-31T04:00:22.094Z",
   "count": 16,
   "cars": [
     {
@@ -116,7 +116,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 38100,
-      "miles": 40250,
+      "miles": 40259,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE4RF061637",
@@ -153,7 +153,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/b5905369-ae65-454e-bd76-c5e9a393c923",
+      "photo": null,
       "url": "https://www.tesla.com/my/order/7SAYGDEF3PF814600?titleStatus=used&redirect=no"
     },
     {
