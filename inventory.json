@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T04:00:22.094Z",
-  "count": 16,
+  "updated": "2026-05-31T07:00:22.326Z",
+  "count": 15,
   "cars": [
     {
       "year": 2023,
@@ -135,28 +135,6 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEE4RF061637?titleStatus=used&redirect=no"
     },
     {
-      "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 38300,
-      "miles": 13859,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEF3PF814600",
-      "hw": 4,
-      "color": {
-        "code": "$PPMR",
-        "name": "Red Multi-Coat"
-      },
-      "range": 273,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": null,
-      "url": "https://www.tesla.com/my/order/7SAYGDEF3PF814600?titleStatus=used&redirect=no"
-    },
-    {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 38800,
@@ -219,7 +197,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/3936d6d4-0d60-4791-add3-3142394f360e",
+      "photo": null,
       "url": "https://www.tesla.com/my/order/7SAYGDED6SF232935?titleStatus=used&redirect=no"
     },
     {
