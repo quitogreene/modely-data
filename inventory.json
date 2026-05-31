@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T13:00:22.402Z",
-  "count": 15,
+  "updated": "2026-05-31T16:00:21.844Z",
+  "count": 14,
   "cars": [
     {
       "year": 2023,
@@ -243,28 +243,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/4d7f40cc-356c-4b2e-a8b1-c2c8e924b277",
       "url": "https://www.tesla.com/my/order/7SAYGDEE8RF034246?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 40200,
-      "miles": 10777,
-      "city": "Gilroy",
-      "state": "CA",
-      "vin": "7SAYGDEE8RF052326",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 295,
-      "lat": 36.996685,
-      "lon": -121.5576,
-      "metro": "Gilroy, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/147377eb-c9f6-46ca-8d5c-eb3677891c08",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE8RF052326?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
