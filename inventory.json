@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T22:00:22.163Z",
-  "count": 18,
+  "updated": "2026-05-31T01:00:22.012Z",
+  "count": 16,
   "cars": [
     {
       "year": 2023,
@@ -111,28 +111,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/c1ff52fb-9cc8-4bf9-81d3-05ed421af097",
       "url": "https://www.tesla.com/my/order/7SAYGDED4RF053593?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Performance All-Wheel Drive",
-      "price": 37800,
-      "miles": 37651,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEFXRF029395",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 252,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/73cc82d4-2698-40e8-8c21-1229ccc562d9",
-      "url": "https://www.tesla.com/my/order/7SAYGDEFXRF029395?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
@@ -265,28 +243,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/51a001b0-2aca-464c-a100-7bf2d7a9d826",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7RA280878?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Performance All-Wheel Drive",
-      "price": 40200,
-      "miles": 21154,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEF9RF022017",
-      "hw": 4,
-      "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
-      },
-      "range": 256,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d509ec7b-0058-406a-85a1-dde1cbbeba9c",
-      "url": "https://www.tesla.com/my/order/7SAYGDEF9RF022017?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
