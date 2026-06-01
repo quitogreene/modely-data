@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T22:00:21.623Z",
+  "updated": "2026-06-01T01:00:22.928Z",
   "count": 14,
   "cars": [
     {
@@ -115,7 +115,7 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 38000,
+      "price": 38100,
       "miles": 40259,
       "city": "McClellan Park",
       "state": "CA",
@@ -137,7 +137,7 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 38600,
+      "price": 38700,
       "miles": 36189,
       "city": "McClellan Park",
       "state": "CA",
@@ -291,7 +291,7 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 41600,
+      "price": 41700,
       "miles": 19881,
       "city": "McClellan Park",
       "state": "CA",
