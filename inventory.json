@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T01:00:22.928Z",
+  "updated": "2026-06-01T04:00:21.805Z",
   "count": 14,
   "cars": [
     {
@@ -182,7 +182,7 @@
       "year": 2025,
       "trim": "Long Range Rear-Wheel Drive",
       "price": 39300,
-      "miles": 32837,
+      "miles": 32842,
       "city": "Fremont",
       "state": "CA",
       "vin": "7SAYGDED6SF232935",
