@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01T19:00:24.048Z",
-  "count": 16,
+  "updated": "2026-06-01T22:00:23.318Z",
+  "count": 15,
   "cars": [
     {
       "year": 2023,
@@ -155,28 +155,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/6f8b82bf-5340-464c-b4d0-95211987dee4",
       "url": "https://www.tesla.com/my/order/7SAYGDEE0RF052577?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 38500,
-      "miles": 33846,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE8RA260171",
-      "hw": 4,
-      "color": {
-        "code": "$PR01",
-        "name": "Ultra Red"
-      },
-      "range": 260,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": null,
-      "url": "https://www.tesla.com/my/order/7SAYGDEE8RA260171?titleStatus=used&redirect=no"
     },
     {
       "year": 2025,
