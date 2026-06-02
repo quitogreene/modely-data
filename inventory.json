@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T01:00:23.243Z",
+  "updated": "2026-06-02T04:00:22.461Z",
   "count": 15,
   "cars": [
     {
@@ -307,7 +307,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/e869d95f-8761-4252-9f66-1414e0e0dde6",
       "url": "https://www.tesla.com/my/order/7SAYGDEFXRF053647?titleStatus=used&redirect=no"
     },
     {
