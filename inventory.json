@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T22:00:23.318Z",
+  "updated": "2026-06-02T01:00:23.243Z",
   "count": 15,
   "cars": [
     {
@@ -93,9 +93,9 @@
     {
       "year": 2024,
       "trim": "Model Y Rear-Wheel Drive",
-      "price": 37000,
-      "miles": 17364,
-      "city": "McClellan Park",
+      "price": 37100,
+      "miles": 17367,
+      "city": "Fremont",
       "state": "CA",
       "vin": "7SAYGDED4RF053593",
       "hw": 4,
@@ -104,9 +104,9 @@
         "name": "Solid Black"
       },
       "range": 216,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
+      "lat": 37.50753,
+      "lon": -121.9861,
+      "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8a2684b6-f9b1-4875-8d00-caa297ccf035",
@@ -131,7 +131,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/1b80332d-55d3-4023-8222-3df541537765",
       "url": "https://www.tesla.com/my/order/7SAYGDEE4RF061637?titleStatus=used&redirect=no"
     },
     {
@@ -175,7 +175,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/24b708bd-4287-4c78-9bc9-804883e9d222",
       "url": "https://www.tesla.com/my/order/7SAYGDED6SF232935?titleStatus=used&redirect=no"
     },
     {
