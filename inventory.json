@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T13:00:23.614Z",
-  "count": 15,
+  "updated": "2026-06-03T16:00:20.174Z",
+  "count": 10,
   "cars": [
     {
       "year": 2024,
@@ -25,92 +25,48 @@
       "url": "https://www.tesla.com/my/order/7SAYGDED1RF097311?titleStatus=used&redirect=no"
     },
     {
-      "year": 2023,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 34300,
-      "miles": 29124,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDED8PF980304",
-      "hw": 4,
-      "color": {
-        "code": "$PMNG",
-        "name": "Midnight Silver Metallic"
-      },
-      "range": 242,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/6ead281a-1776-4024-8c55-99244d608276",
-      "url": "https://www.tesla.com/my/order/7SAYGDED8PF980304?titleStatus=used&redirect=no"
-    },
-    {
       "year": 2024,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 35900,
-      "miles": 23521,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDED9RF088257",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 240,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ba81a584-9baa-4c5e-be54-a555a8b1edbe",
-      "url": "https://www.tesla.com/my/order/7SAYGDED9RF088257?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 36400,
-      "miles": 17367,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDED4RF053593",
-      "hw": 4,
-      "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
-      },
-      "range": 216,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/e567cd65-6c0c-4c65-b6af-4f0d8e1f5e91",
-      "url": "https://www.tesla.com/my/order/7SAYGDED4RF053593?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 36700,
-      "miles": 36105,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 35200,
+      "miles": 69799,
       "city": "McClellan Park",
       "state": "CA",
-      "vin": "7SAYGDEFXPF808910",
+      "vin": "7SAYGAEE2RF995147",
       "hw": 4,
       "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
+        "code": "$PPSB",
+        "name": "Deep Blue Metallic"
       },
-      "range": 255,
+      "range": 242,
       "lat": 38.64624,
       "lon": -121.409294,
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8733abf9-f7fc-4468-aacc-d3cf268b8012",
-      "url": "https://www.tesla.com/my/order/7SAYGDEFXPF808910?titleStatus=used&redirect=no"
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/cba0314c-eac0-4798-818b-6ef3dd8e501c",
+      "url": "https://www.tesla.com/my/order/7SAYGAEE2RF995147?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Model Y Rear-Wheel Drive",
+      "price": 36800,
+      "miles": 18518,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDED9PF979341",
+      "hw": 4,
+      "color": {
+        "code": "$PPSW",
+        "name": "Pearl White Multi-Coat"
+      },
+      "range": 245,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d5b45524-8c00-45b6-8521-88a71e841724",
+      "url": "https://www.tesla.com/my/order/7SAYGDED9PF979341?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
@@ -155,72 +111,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/6f8b82bf-5340-464c-b4d0-95211987dee4",
       "url": "https://www.tesla.com/my/order/7SAYGDEE0RF052577?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2025,
-      "trim": "Long Range Rear-Wheel Drive",
-      "price": 38200,
-      "miles": 32842,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDED6SF232935",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 268,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/feee2b7e-05f0-4792-82c7-2a6043551a7b",
-      "url": "https://www.tesla.com/my/order/7SAYGDED6SF232935?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 39000,
-      "miles": 23972,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEE7RA280878",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 282,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/51a001b0-2aca-464c-a100-7bf2d7a9d826",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7RA280878?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 39100,
-      "miles": 25146,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEF6PF925593",
-      "hw": 4,
-      "color": {
-        "code": "$PPSB",
-        "name": "Deep Blue Metallic"
-      },
-      "range": 269,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/702a19cc-3173-44b8-b3a2-b44b65845805",
-      "url": "https://www.tesla.com/my/order/7SAYGDEF6PF925593?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
