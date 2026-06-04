@@ -1,29 +1,7 @@
 {
-  "updated": "2026-06-03T22:00:20.317Z",
-  "count": 10,
+  "updated": "2026-06-04T01:00:21.945Z",
+  "count": 9,
   "cars": [
-    {
-      "year": 2024,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 34000,
-      "miles": 36422,
-      "city": "Gilroy",
-      "state": "CA",
-      "vin": "7SAYGDED1RF097311",
-      "hw": 4,
-      "color": {
-        "code": "$PR01",
-        "name": "Ultra Red"
-      },
-      "range": 212,
-      "lat": 36.996685,
-      "lon": -121.5576,
-      "metro": "Gilroy, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d488b901-c33e-4bbc-827e-0d4032a0d52f",
-      "url": "https://www.tesla.com/my/order/7SAYGDED1RF097311?titleStatus=used&redirect=no"
-    },
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
