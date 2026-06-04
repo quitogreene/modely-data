@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-04T04:00:20.152Z",
+  "updated": "2026-06-04T07:00:20.109Z",
   "count": 9,
   "cars": [
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 35200,
-      "miles": 69799,
+      "miles": 69800,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGAEE2RF995147",
@@ -28,7 +28,7 @@
       "year": 2023,
       "trim": "Model Y Rear-Wheel Drive",
       "price": 36800,
-      "miles": 18518,
+      "miles": 18520,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDED9PF979341",
@@ -81,7 +81,7 @@
         "code": "$PBSB",
         "name": "Solid Black"
       },
-      "range": 262,
+      "range": 261,
       "lat": 38.64624,
       "lon": -121.409294,
       "metro": "McClellan Park, CA",
