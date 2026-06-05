@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T16:00:26.241Z",
-  "count": 26,
+  "updated": "2026-06-05T19:00:24.800Z",
+  "count": 27,
   "cars": [
     {
       "year": 2023,
@@ -45,6 +45,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ea8b8b86-5560-434c-8227-ea5944a1bfdc",
       "url": "https://www.tesla.com/my/order/7SAYGDED1PF959911?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Model Y All-Wheel Drive",
+      "price": 32900,
+      "miles": 41320,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEE0PA145805",
+      "hw": 4,
+      "color": {
+        "code": "$PPMR",
+        "name": "Red Multi-Coat"
+      },
+      "range": 264,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/9cdd5c91-8091-443d-970c-e38fd596cf47",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE0PA145805?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -93,7 +115,7 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 35600,
+      "price": 35500,
       "miles": 34294,
       "city": "McClellan Park",
       "state": "CA",
@@ -111,6 +133,28 @@
       "history": "PREVIOUS ACCIDENT(S)",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/7da89062-b548-4ac2-a98f-478eb2df6350",
       "url": "https://www.tesla.com/my/order/7SAYGDEE5PF812564?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 35600,
+      "miles": 46284,
+      "city": "Fremont",
+      "state": "CA",
+      "vin": "7SAYGDEE2PF793603",
+      "hw": 4,
+      "color": {
+        "code": "$PPSW",
+        "name": "Pearl White Multi-Coat"
+      },
+      "range": 277,
+      "lat": 37.50753,
+      "lon": -121.9861,
+      "metro": "Fremont, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/1d5d1cfa-0649-4476-b308-907077abe562",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE2PF793603?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -204,7 +248,7 @@
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 36900,
-      "miles": 35940,
+      "miles": 35942,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE2PF816944",
@@ -225,7 +269,7 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 37600,
+      "price": 37400,
       "miles": 29481,
       "city": "McClellan Park",
       "state": "CA",
@@ -379,7 +423,7 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 40200,
+      "price": 40100,
       "miles": 15934,
       "city": "McClellan Park",
       "state": "CA",
@@ -507,28 +551,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/32fa27d5-8ef4-4b6e-aa9f-46a88fe8b989",
       "url": "https://www.tesla.com/my/order/7SAYGDEE9RF044655?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2026,
-      "trim": "Premium Rear-Wheel Drive",
-      "price": 47600,
-      "miles": 5104,
-      "city": "Colma",
-      "state": "CA",
-      "vin": "7SAYGDED1TF562371",
-      "hw": 4,
-      "color": {
-        "code": "$PN00",
-        "name": "Quicksilver"
-      },
-      "range": 350,
-      "lat": 37.670635,
-      "lon": -122.46355,
-      "metro": "Colma, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/523f9bfb-4337-4933-99e7-92496a41f2f1",
-      "url": "https://www.tesla.com/my/order/7SAYGDED1TF562371?titleStatus=used&redirect=no"
     },
     {
       "year": 2026,
