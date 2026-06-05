@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T04:00:22.752Z",
+  "updated": "2026-06-05T07:00:22.356Z",
   "count": 15,
   "cars": [
     {
@@ -257,7 +257,7 @@
         "code": "$PN01",
         "name": "Stealth Grey"
       },
-      "range": 289,
+      "range": 290,
       "lat": 38.64624,
       "lon": -121.409294,
       "metro": "McClellan Park, CA",
