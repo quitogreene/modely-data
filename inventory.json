@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T22:00:24.168Z",
-  "count": 30,
+  "updated": "2026-06-06T01:00:24.940Z",
+  "count": 29,
   "cars": [
     {
       "year": 2023,
@@ -45,28 +45,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/c154cfe1-7f5f-410d-b1d0-469987419e40",
       "url": "https://www.tesla.com/my/order/7SAYGDEE2PA123837?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 32400,
-      "miles": 58170,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDED1PF959911",
-      "hw": 4,
-      "color": {
-        "code": "$PMNG",
-        "name": "Midnight Silver Metallic"
-      },
-      "range": 238,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ea8b8b86-5560-434c-8227-ea5944a1bfdc",
-      "url": "https://www.tesla.com/my/order/7SAYGDED1PF959911?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -270,7 +248,7 @@
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 36900,
-      "miles": 35942,
+      "miles": 35956,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE2PF816944",
@@ -423,6 +401,28 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
+      "price": 39900,
+      "miles": 31816,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEEXRF111909",
+      "hw": 4,
+      "color": {
+        "code": "$PN00",
+        "name": "Quicksilver"
+      },
+      "range": 292,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/3142a01e-9c74-4ccd-9924-11d759decc73",
+      "url": "https://www.tesla.com/my/order/7SAYGDEEXRF111909?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Long Range All-Wheel Drive",
       "price": 40000,
       "miles": 27660,
       "city": "McClellan Park",
@@ -441,28 +441,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/a228c775-8369-4fb1-a382-c985fda4a562",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7RF075497?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 40000,
-      "miles": 31816,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEEXRF111909",
-      "hw": 4,
-      "color": {
-        "code": "$PN00",
-        "name": "Quicksilver"
-      },
-      "range": 292,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/3142a01e-9c74-4ccd-9924-11d759decc73",
-      "url": "https://www.tesla.com/my/order/7SAYGDEEXRF111909?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -512,7 +490,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 40500,
-      "miles": 19905,
+      "miles": 19925,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE2RF090635",
@@ -600,7 +578,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 41300,
-      "miles": 15125,
+      "miles": 15134,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE9RF044655",
