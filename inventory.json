@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T19:00:24.855Z",
-  "count": 27,
+  "updated": "2026-06-06T22:00:23.968Z",
+  "count": 24,
   "cars": [
     {
       "year": 2023,
@@ -45,28 +45,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/6f283545-1cb6-4b8a-a6c4-5dcc0acdda8b",
       "url": "https://www.tesla.com/my/order/7SAYGDEE2PA123837?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Model Y All-Wheel Drive",
-      "price": 32900,
-      "miles": 41320,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE0PA145805",
-      "hw": 4,
-      "color": {
-        "code": "$PPMR",
-        "name": "Red Multi-Coat"
-      },
-      "range": 264,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/9cdd5c91-8091-443d-970c-e38fd596cf47",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE0PA145805?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -221,28 +199,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/178b35f5-f588-49c8-8fd2-11c88abe213d",
       "url": "https://www.tesla.com/my/order/7SAYGDEE0PF845648?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 36700,
-      "miles": 35956,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE2PF816944",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 291,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/1f8ee7ec-2045-436a-9688-dcb5b5d51b80",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE2PF816944?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -507,28 +463,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f1eb2579-c626-4437-b4f8-24ce7d630ae7",
       "url": "https://www.tesla.com/my/order/7SAYGDEE5RF068497?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 40800,
-      "miles": 15134,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE9RF044655",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 266,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/32fa27d5-8ef4-4b6e-aa9f-46a88fe8b989",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE9RF044655?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
