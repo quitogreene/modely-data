@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T04:00:24.147Z",
-  "count": 29,
+  "updated": "2026-06-06T07:00:24.094Z",
+  "count": 28,
   "cars": [
     {
       "year": 2023,
@@ -221,28 +221,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/56985814-810d-487f-9f86-67bbbed7fefb",
       "url": "https://www.tesla.com/my/order/7SAYGDEE0PF845648?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 36900,
-      "miles": 35091,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEF9PF812785",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 266,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/86555547-2201-4270-82b9-ec57a7e1e9ca",
-      "url": "https://www.tesla.com/my/order/7SAYGDEF9PF812785?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
