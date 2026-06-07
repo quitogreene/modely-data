@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T04:00:23.504Z",
-  "count": 24,
+  "updated": "2026-06-07T07:00:24.271Z",
+  "count": 23,
   "cars": [
     {
       "year": 2023,
@@ -485,28 +485,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/03fdaff5-aec5-4962-bb93-4a08c3d420f6",
       "url": "https://www.tesla.com/my/order/7SAYGDEE6RF013766?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2026,
-      "trim": "Premium All-Wheel Drive",
-      "price": 49500,
-      "miles": 3235,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEE7TF558978",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": null,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": null,
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7TF558978?titleStatus=used&redirect=no"
     },
     {
       "year": 2026,
