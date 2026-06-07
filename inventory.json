@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T19:00:24.396Z",
-  "count": 22,
+  "updated": "2026-06-07T22:00:24.570Z",
+  "count": 20,
   "cars": [
     {
       "year": 2023,
@@ -23,28 +23,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/caac262f-8e43-44ba-bf56-e3d7a392e76d",
       "url": "https://www.tesla.com/my/order/7SAYGDEE3PA123507?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Model Y All-Wheel Drive",
-      "price": 31200,
-      "miles": 51498,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE2PA123837",
-      "hw": 4,
-      "color": {
-        "code": "$PPSB",
-        "name": "Deep Blue Metallic"
-      },
-      "range": 261,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/27d1ce23-2963-4fe1-89ee-d683ceb78a8d",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE2PA123837?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -375,28 +353,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/cca16381-2c75-4060-98ae-85d261ee3f1b",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF936271?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 39900,
-      "miles": 19929,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE2RF090635",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 290,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/2215bc1f-4dcf-4749-b46b-ac1c3d6c81e6",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE2RF090635?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
