@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T22:00:24.570Z",
-  "count": 20,
+  "updated": "2026-06-08T01:00:23.493Z",
+  "count": 19,
   "cars": [
     {
       "year": 2023,
@@ -157,48 +157,26 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEF6PF826028?titleStatus=used&redirect=no"
     },
     {
-      "year": 2023,
+      "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 37000,
-      "miles": 30176,
-      "city": "McClellan Park",
+      "price": 37300,
+      "miles": 22812,
+      "city": "Gilroy",
       "state": "CA",
-      "vin": "7SAYGDEE7PF794648",
+      "vin": "7SAYGDEE4RF004807",
       "hw": 4,
       "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
+        "code": "$PN01",
+        "name": "Stealth Grey"
       },
-      "range": 293,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
+      "range": 283,
+      "lat": 36.996685,
+      "lon": -121.5576,
+      "metro": "Gilroy, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/084f93d7-487d-46ab-9051-866488059d17",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7PF794648?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 37200,
-      "miles": 29481,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE5PF815903",
-      "hw": 4,
-      "color": {
-        "code": "$PMNG",
-        "name": "Midnight Silver Metallic"
-      },
-      "range": 297,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/c8a889c2-535d-4f7d-8b27-17f5684e07aa",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE5PF815903?titleStatus=used&redirect=no"
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ab5c5efc-1d1a-4e2a-a30d-bee525f18c6b",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE4RF004807?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
