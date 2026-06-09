@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-08T22:00:22.095Z",
+  "updated": "2026-06-09T01:00:23.283Z",
   "count": 6,
   "cars": [
     {
       "year": 2023,
       "trim": "Model Y All-Wheel Drive",
-      "price": 29000,
+      "price": 29100,
       "miles": 74594,
       "city": "McClellan Park",
       "state": "CA",
@@ -43,7 +43,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/9cd3a7f9-4d85-4891-96d5-bf4f0148d7b7",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/170a6495-136e-40ce-99b3-3b536ce9e0dd",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF858137?titleStatus=used&redirect=no"
     },
     {
@@ -93,7 +93,7 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 40400,
+      "price": 40500,
       "miles": 12423,
       "city": "McClellan Park",
       "state": "CA",
