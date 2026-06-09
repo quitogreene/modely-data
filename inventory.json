@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T19:00:24.113Z",
-  "count": 17,
+  "updated": "2026-06-09T22:00:25.735Z",
+  "count": 19,
   "cars": [
     {
       "year": 2023,
@@ -179,6 +179,28 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEE0PF791087?titleStatus=used&redirect=no"
     },
     {
+      "year": 2024,
+      "trim": "Performance All-Wheel Drive",
+      "price": 39000,
+      "miles": 19326,
+      "city": "Gilroy",
+      "state": "CA",
+      "vin": "7SAYGDEF7RF020525",
+      "hw": 4,
+      "color": {
+        "code": "$PN01",
+        "name": "Stealth Grey"
+      },
+      "range": 262,
+      "lat": 36.996685,
+      "lon": -121.5576,
+      "metro": "Gilroy, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/96c4a0f8-be4d-42f5-8730-16b8231c277c",
+      "url": "https://www.tesla.com/my/order/7SAYGDEF7RF020525?titleStatus=used&redirect=no"
+    },
+    {
       "year": 2023,
       "trim": "Performance All-Wheel Drive",
       "price": 39100,
@@ -265,6 +287,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d756f618-62d8-46f1-baec-0c6d14a73cf7",
       "url": "https://www.tesla.com/my/order/7SAYGDEE6RF013766?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 40200,
+      "miles": 24044,
+      "city": "Colma",
+      "state": "CA",
+      "vin": "7SAYGDEE0RF032345",
+      "hw": 4,
+      "color": {
+        "code": "$PN01",
+        "name": "Stealth Grey"
+      },
+      "range": 283,
+      "lat": 37.670635,
+      "lon": -122.46355,
+      "metro": "Colma, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/bca6b475-9312-4f2e-8ad8-694e01d6f0b8",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE0RF032345?titleStatus=used&redirect=no"
     },
     {
       "year": 2025,
