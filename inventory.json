@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T10:00:21.892Z",
-  "count": 7,
+  "updated": "2026-06-09T13:00:22.846Z",
+  "count": 6,
   "cars": [
     {
       "year": 2023,
@@ -45,28 +45,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/170a6495-136e-40ce-99b3-3b536ce9e0dd",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF858137?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 34800,
-      "miles": 34294,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE5PF812564",
-      "hw": 4,
-      "color": {
-        "code": "$PPSB",
-        "name": "Deep Blue Metallic"
-      },
-      "range": 288,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "PREVIOUS ACCIDENT(S)",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f080c8b5-adbf-4ae1-a993-27ac21b7fcc7",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE5PF812564?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
