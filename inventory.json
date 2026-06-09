@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T01:00:23.283Z",
+  "updated": "2026-06-09T04:00:22.270Z",
   "count": 6,
   "cars": [
     {
@@ -21,7 +21,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/574edcce-7a4f-4c0a-bea3-dfda627d8efe",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/55bb7b65-4c73-46ee-82be-3a6bef2d7511",
       "url": "https://www.tesla.com/my/order/7SAYGDEE3PA123507?titleStatus=used&redirect=no"
     },
     {
@@ -65,7 +65,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "PREVIOUS ACCIDENT(S)",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/39f625e9-5b22-40cb-b47b-a344ef3ffd0a",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ce339abc-12e9-40db-be56-7dbca69cabb0",
       "url": "https://www.tesla.com/my/order/7SAYGDEE5PF812564?titleStatus=used&redirect=no"
     },
     {
@@ -109,7 +109,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/61c0858e-b470-4d13-bc7d-0df45d346ca2",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/e250cb3f-807e-49fc-87c2-e9c35e279d7f",
       "url": "https://www.tesla.com/my/order/7SAYGDEE6RF013766?titleStatus=used&redirect=no"
     },
     {
