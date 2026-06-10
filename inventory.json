@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T10:00:21.251Z",
-  "count": 18,
+  "updated": "2026-06-10T13:00:22.735Z",
+  "count": 17,
   "cars": [
     {
       "year": 2023,
@@ -89,28 +89,6 @@
       "history": "PREVIOUS ACCIDENT(S)",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f080c8b5-adbf-4ae1-a993-27ac21b7fcc7",
       "url": "https://www.tesla.com/my/order/7SAYGDEE5PF812564?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 35100,
-      "miles": 32856,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEDXPF949362",
-      "hw": 4,
-      "color": {
-        "code": "$PMNG",
-        "name": "Midnight Silver Metallic"
-      },
-      "range": 248,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/5db02a47-bda7-4f24-af7d-c82a3f1533eb",
-      "url": "https://www.tesla.com/my/order/7SAYGDEDXPF949362?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
