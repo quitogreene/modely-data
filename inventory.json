@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T10:00:23.906Z",
-  "count": 32,
+  "updated": "2026-06-11T13:00:24.486Z",
+  "count": 31,
   "cars": [
     {
       "year": 2023,
@@ -45,28 +45,6 @@
       "history": "PREVIOUS ACCIDENT(S)",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f080c8b5-adbf-4ae1-a993-27ac21b7fcc7",
       "url": "https://www.tesla.com/my/order/7SAYGDEE5PF812564?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 34800,
-      "miles": 32856,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEDXPF949362",
-      "hw": 4,
-      "color": {
-        "code": "$PMNG",
-        "name": "Midnight Silver Metallic"
-      },
-      "range": 248,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/6171d468-4f28-4819-98d3-f744531cbdc6",
-      "url": "https://www.tesla.com/my/order/7SAYGDEDXPF949362?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
