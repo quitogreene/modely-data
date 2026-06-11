@@ -1,29 +1,7 @@
 {
-  "updated": "2026-06-11T04:00:25.579Z",
-  "count": 33,
+  "updated": "2026-06-11T07:00:23.993Z",
+  "count": 32,
   "cars": [
-    {
-      "year": 2023,
-      "trim": "Model Y All-Wheel Drive",
-      "price": 28500,
-      "miles": 74596,
-      "city": "Gilroy",
-      "state": "CA",
-      "vin": "7SAYGDEE3PA123507",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 261,
-      "lat": 36.996685,
-      "lon": -121.5576,
-      "metro": "Gilroy, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/12b41d46-4a1b-45ec-abbe-5048d0dd8291",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE3PA123507?titleStatus=used&redirect=no"
-    },
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
