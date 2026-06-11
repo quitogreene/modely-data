@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T16:00:24.062Z",
+  "updated": "2026-06-11T19:00:24.748Z",
   "count": 34,
   "cars": [
     {
@@ -23,28 +23,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/170a6495-136e-40ce-99b3-3b536ce9e0dd",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF858137?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 34200,
-      "miles": 34294,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE5PF812564",
-      "hw": 4,
-      "color": {
-        "code": "$PPSB",
-        "name": "Deep Blue Metallic"
-      },
-      "range": 288,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "PREVIOUS ACCIDENT(S)",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f080c8b5-adbf-4ae1-a993-27ac21b7fcc7",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE5PF812564?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -202,28 +180,6 @@
     },
     {
       "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 37200,
-      "miles": 32325,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGAEE6PF792274",
-      "hw": 4,
-      "color": {
-        "code": "$PPSB",
-        "name": "Deep Blue Metallic"
-      },
-      "range": 297,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8f22f496-07c4-4f69-ae17-23e31507789c",
-      "url": "https://www.tesla.com/my/order/7SAYGAEE6PF792274?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
       "trim": "Model Y Rear-Wheel Drive",
       "price": 37200,
       "miles": 13243,
@@ -269,7 +225,29 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 37800,
+      "price": 37300,
+      "miles": 32325,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGAEE6PF792274",
+      "hw": 4,
+      "color": {
+        "code": "$PPSB",
+        "name": "Deep Blue Metallic"
+      },
+      "range": 297,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8f22f496-07c4-4f69-ae17-23e31507789c",
+      "url": "https://www.tesla.com/my/order/7SAYGAEE6PF792274?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 37900,
       "miles": 28302,
       "city": "McClellan Park",
       "state": "CA",
@@ -313,7 +291,7 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 38300,
+      "price": 38400,
       "miles": 23180,
       "city": "McClellan Park",
       "state": "CA",
@@ -511,28 +489,6 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
-      "price": 40600,
-      "miles": 20065,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEEXRF067930",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 287,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/0deed8d8-fa90-4a50-ab38-2c81c73a8430",
-      "url": "https://www.tesla.com/my/order/7SAYGDEEXRF067930?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
       "price": 40700,
       "miles": 18700,
       "city": "McClellan Park",
@@ -553,10 +509,32 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEE4RF059743?titleStatus=used&redirect=no"
     },
     {
+      "year": 2024,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 40700,
+      "miles": 20065,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEEXRF067930",
+      "hw": 4,
+      "color": {
+        "code": "$PPSW",
+        "name": "Pearl White Multi-Coat"
+      },
+      "range": 287,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/0deed8d8-fa90-4a50-ab38-2c81c73a8430",
+      "url": "https://www.tesla.com/my/order/7SAYGDEEXRF067930?titleStatus=used&redirect=no"
+    },
+    {
       "year": 2025,
       "trim": "Long Range All-Wheel Drive",
       "price": 40700,
-      "miles": 16825,
+      "miles": 16827,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE2SF233461",
@@ -727,6 +705,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/0ba031f7-7455-4181-ac0a-c50a5c2c2fba",
       "url": "https://www.tesla.com/my/order/7SAYGDEE6SF308324?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Performance All-Wheel Drive",
+      "price": 42800,
+      "miles": 9178,
+      "city": "Fremont",
+      "state": "CA",
+      "vin": "7SAYGDEF8RF125395",
+      "hw": 4,
+      "color": {
+        "code": "$PPSW",
+        "name": "Pearl White Multi-Coat"
+      },
+      "range": 254,
+      "lat": 37.50753,
+      "lon": -121.9861,
+      "metro": "Fremont, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d04047fb-a3f8-4a7f-a6ca-3baa9837c5ec",
+      "url": "https://www.tesla.com/my/order/7SAYGDEF8RF125395?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
