@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T19:00:26.290Z",
-  "count": 35,
+  "updated": "2026-06-12T22:00:23.817Z",
+  "count": 34,
   "cars": [
     {
       "year": 2023,
@@ -133,28 +133,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/97e4cb1e-af8f-4b57-aaf6-d0c676aaac82",
       "url": "https://www.tesla.com/my/order/7SAYGDEE9PF850766?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 35900,
-      "miles": 41454,
-      "city": "Gilroy",
-      "state": "CA",
-      "vin": "7SAYGDEE7PF799686",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 285,
-      "lat": 36.996685,
-      "lon": -121.5576,
-      "metro": "Gilroy, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ee037652-b5c0-44cd-89d1-1a01350d5294",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7PF799686?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
