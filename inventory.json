@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T19:00:24.207Z",
-  "count": 30,
+  "updated": "2026-06-13T22:00:25.639Z",
+  "count": 28,
   "cars": [
     {
       "year": 2023,
@@ -136,28 +136,6 @@
     },
     {
       "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 36400,
-      "miles": 32325,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGAEE6PF792274",
-      "hw": 4,
-      "color": {
-        "code": "$PPSB",
-        "name": "Deep Blue Metallic"
-      },
-      "range": 297,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/fa6f30f2-5082-4313-9508-934b92cf090f",
-      "url": "https://www.tesla.com/my/order/7SAYGAEE6PF792274?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
       "trim": "Model Y Rear-Wheel Drive",
       "price": 37000,
       "miles": 13246,
@@ -199,28 +177,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d5aa0502-702f-40a9-b4d9-4d9a5061fc10",
       "url": "https://www.tesla.com/my/order/7SAYGDEE0PF791087?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 37600,
-      "miles": 23185,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGAEE8PF804456",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 292,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/41a3ad55-926b-408a-b3fa-201d0d93f0a4",
-      "url": "https://www.tesla.com/my/order/7SAYGAEE8PF804456?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -490,7 +446,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 40600,
-      "miles": 15748,
+      "miles": 15784,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE9RF068499",
