@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T22:00:23.817Z",
+  "updated": "2026-06-13T01:00:24.561Z",
   "count": 34,
   "cars": [
     {
@@ -199,28 +199,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/4cf7971e-4fee-4644-9829-1e8f63fa1e7b",
       "url": "https://www.tesla.com/my/order/7SAYGDED9PF941883?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 37300,
-      "miles": 29950,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE7PF790678",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 297,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": null,
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7PF790678?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -533,9 +511,31 @@
     {
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
+      "price": 40500,
+      "miles": 27466,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEE4RF103885",
+      "hw": 4,
+      "color": {
+        "code": "$PN00",
+        "name": "Quicksilver"
+      },
+      "range": 275,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": null,
+      "url": "https://www.tesla.com/my/order/7SAYGDEE4RF103885?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Long Range All-Wheel Drive",
       "price": 40700,
       "miles": 15748,
-      "city": "McClellan Park",
+      "city": "Gilroy",
       "state": "CA",
       "vin": "7SAYGDEE9RF068499",
       "hw": 4,
@@ -544,9 +544,9 @@
         "name": "Stealth Grey"
       },
       "range": 291,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
+      "lat": 36.996685,
+      "lon": -121.5576,
+      "metro": "Gilroy, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/0a9431fd-8804-491b-b6dc-dc1f13dac87b",
