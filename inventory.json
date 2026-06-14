@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:00:24.781Z",
+  "updated": "2026-06-14T22:00:23.859Z",
   "count": 26,
   "cars": [
     {
@@ -223,28 +223,6 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEF5PF812704?titleStatus=used&redirect=no"
     },
     {
-      "year": 2024,
-      "trim": "Performance All-Wheel Drive",
-      "price": 38000,
-      "miles": 30794,
-      "city": "Colma",
-      "state": "CA",
-      "vin": "7SAYGDEF0RF064446",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 254,
-      "lat": 37.670635,
-      "lon": -122.46355,
-      "metro": "Colma, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/512924e0-05dc-4f39-ad04-acd559754848",
-      "url": "https://www.tesla.com/my/order/7SAYGDEF0RF064446?titleStatus=used&redirect=no"
-    },
-    {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 38000,
@@ -265,6 +243,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/679110b3-2f64-44a1-82ca-45e8dc033d01",
       "url": "https://www.tesla.com/my/order/7SAYGDEE8PF862245?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Performance All-Wheel Drive",
+      "price": 38000,
+      "miles": 30794,
+      "city": "Colma",
+      "state": "CA",
+      "vin": "7SAYGDEF0RF064446",
+      "hw": 4,
+      "color": {
+        "code": "$PN01",
+        "name": "Stealth Grey"
+      },
+      "range": 254,
+      "lat": 37.670635,
+      "lon": -122.46355,
+      "metro": "Colma, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/512924e0-05dc-4f39-ad04-acd559754848",
+      "url": "https://www.tesla.com/my/order/7SAYGDEF0RF064446?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
