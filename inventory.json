@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T04:00:23.792Z",
-  "count": 28,
+  "updated": "2026-06-14T07:00:23.368Z",
+  "count": 27,
   "cars": [
     {
       "year": 2023,
@@ -463,28 +463,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/061fef6d-9544-4a87-8ea8-4064a966e5fd",
       "url": "https://www.tesla.com/my/order/7SAYGDEE9RF068499?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2024,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 40700,
-      "miles": 27468,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE4RF103885",
-      "hw": 4,
-      "color": {
-        "code": "$PN00",
-        "name": "Quicksilver"
-      },
-      "range": 275,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/3f81aa3d-7abb-4e12-9f0e-7b6e38799973",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE4RF103885?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
