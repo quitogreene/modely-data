@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T01:00:24.883Z",
+  "updated": "2026-06-16T04:00:24.002Z",
   "count": 33,
   "cars": [
     {
@@ -43,7 +43,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/7685202a-1032-405d-b4d3-3838963bf179",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF789689?titleStatus=used&redirect=no"
     },
     {
@@ -65,7 +65,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/49750651-9a93-4952-9233-288246d70d7a",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/08559561-bb65-4b1b-83f8-a9df83715023",
       "url": "https://www.tesla.com/my/order/7SAYGDEE1PA124722?titleStatus=used&redirect=no"
     },
     {
@@ -153,7 +153,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/bdc7400e-5089-4492-9d5e-4049227c1fd0",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ad0bef95-113d-4d3f-a3c1-d487265d21d4",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF905831?titleStatus=used&redirect=no"
     },
     {
@@ -175,7 +175,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "PREVIOUS ACCIDENT(S)",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/41a711f2-98d4-45bf-ba7a-6e2bc16f28e1",
       "url": "https://www.tesla.com/my/order/7SAYGDEF8PF795512?titleStatus=used&redirect=no"
     },
     {
@@ -197,7 +197,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/1596556e-b7e9-4694-bc34-093e48553d64",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/456525dc-59ab-4bcc-a0a4-e8479ce2aac5",
       "url": "https://www.tesla.com/my/order/7SAYGDED9PF941883?titleStatus=used&redirect=no"
     },
     {
@@ -241,7 +241,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/a08984e8-999b-44a0-bd21-99fa27743d06",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/2f75f227-62bf-4240-aa79-801dd3749b97",
       "url": "https://www.tesla.com/my/order/7SAYGDEE5PF790579?titleStatus=used&redirect=no"
     },
     {
@@ -263,7 +263,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/63480600-afb9-4c6b-8826-c6e133f63333",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/2271bffd-a87d-4832-9fbd-961381f7175d",
       "url": "https://www.tesla.com/my/order/7SAYGDEE3PF816449?titleStatus=used&redirect=no"
     },
     {
@@ -329,7 +329,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f39e28be-7cc5-44b0-9d3b-f47a9e17e380",
       "url": "https://www.tesla.com/my/order/7SAYGDEE1PF791535?titleStatus=used&redirect=no"
     },
     {
@@ -373,7 +373,7 @@
       "metro": "Colma, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/b30050e2-1874-47a4-ab24-f9e4303b9de6",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/62970fc2-180a-472b-a0ab-cd66218b4833",
       "url": "https://www.tesla.com/my/order/7SAYGDEF3PF795076?titleStatus=used&redirect=no"
     },
     {
@@ -439,7 +439,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/5344da1a-19a9-4562-8f6f-6c4883a88e2a",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/15e34281-5b54-404a-a6be-494089f0256b",
       "url": "https://www.tesla.com/my/order/7SAYGDEEXRF067930?titleStatus=used&redirect=no"
     },
     {
@@ -549,7 +549,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/a84789a6-cb5a-438f-938a-70480a04e0e8",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/32528e08-8653-4391-a5c5-053edb60b1a1",
       "url": "https://www.tesla.com/my/order/7SAYGDEEXRF081584?titleStatus=used&redirect=no"
     },
     {
@@ -659,7 +659,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/bbd59ab8-59d8-4c0e-8491-dc47b96fe10a",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/13c49b3e-d8d2-4285-926a-919e95e942a2",
       "url": "https://www.tesla.com/my/order/7SAYGAEE5SF265819?titleStatus=used&redirect=no"
     },
     {
@@ -688,7 +688,7 @@
       "year": 2026,
       "trim": "Premium All-Wheel Drive",
       "price": 50500,
-      "miles": 4587,
+      "miles": 4590,
       "city": "Fremont",
       "state": "CA",
       "vin": "7SAYGDEE5TF532542",
