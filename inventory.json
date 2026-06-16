@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T10:00:23.622Z",
-  "count": 33,
+  "updated": "2026-06-16T13:00:23.250Z",
+  "count": 32,
   "cars": [
     {
       "year": 2023,
@@ -89,28 +89,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/b62cc050-4e49-4894-b51d-035cdad95b86",
       "url": "https://www.tesla.com/my/order/7SAYGDEE1PA124722?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 34000,
-      "miles": 45602,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEFXPF804016",
-      "hw": 4,
-      "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
-      },
-      "range": 265,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/b3410521-158d-4dd8-adcb-ef922cf3ed40",
-      "url": "https://www.tesla.com/my/order/7SAYGDEFXPF804016?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -267,28 +245,6 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEE5PF790579?titleStatus=used&redirect=no"
     },
     {
-      "year": 2024,
-      "trim": "Performance All-Wheel Drive",
-      "price": 37400,
-      "miles": 30794,
-      "city": "Colma",
-      "state": "CA",
-      "vin": "7SAYGDEF0RF064446",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 254,
-      "lat": 37.670635,
-      "lon": -122.46355,
-      "metro": "Colma, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/512924e0-05dc-4f39-ad04-acd559754848",
-      "url": "https://www.tesla.com/my/order/7SAYGDEF0RF064446?titleStatus=used&redirect=no"
-    },
-    {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 37400,
@@ -309,6 +265,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/679110b3-2f64-44a1-82ca-45e8dc033d01",
       "url": "https://www.tesla.com/my/order/7SAYGDEE8PF862245?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 37500,
+      "miles": 36189,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEE0RF052577",
+      "hw": 4,
+      "color": {
+        "code": "$PBSB",
+        "name": "Solid Black"
+      },
+      "range": 261,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/6f8b82bf-5340-464c-b4d0-95211987dee4",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE0RF052577?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
