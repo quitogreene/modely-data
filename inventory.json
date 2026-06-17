@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T22:00:24.885Z",
+  "updated": "2026-06-17T01:00:25.017Z",
   "count": 45,
   "cars": [
     {
@@ -28,7 +28,7 @@
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 31900,
-      "miles": 85303,
+      "miles": 85304,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE7PF789689",
@@ -182,7 +182,7 @@
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 35100,
-      "miles": 43551,
+      "miles": 43553,
       "city": "Fremont",
       "state": "CA",
       "vin": "7SAYGAEE1PF842353",
@@ -468,7 +468,7 @@
       "year": 2024,
       "trim": "Long Range All-Wheel Drive",
       "price": 37500,
-      "miles": 36189,
+      "miles": 36196,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEE0RF052577",
@@ -511,7 +511,7 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 38000,
+      "price": 37900,
       "miles": 28426,
       "city": "McClellan Park",
       "state": "CA",
