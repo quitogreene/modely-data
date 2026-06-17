@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T13:00:24.186Z",
-  "count": 45,
+  "updated": "2026-06-17T16:00:25.929Z",
+  "count": 44,
   "cars": [
     {
       "year": 2023,
@@ -421,28 +421,6 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEE5PF790579?titleStatus=used&redirect=no"
     },
     {
-      "year": 2024,
-      "trim": "Long Range Rear-Wheel Drive",
-      "price": 37100,
-      "miles": 30181,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDED8RF103850",
-      "hw": 4,
-      "color": {
-        "code": "$PN01",
-        "name": "Stealth Grey"
-      },
-      "range": 283,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d770ba80-63eb-483e-b9f8-6a40690aead5",
-      "url": "https://www.tesla.com/my/order/7SAYGDED8RF103850?titleStatus=used&redirect=no"
-    },
-    {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 37100,
@@ -463,6 +441,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/679110b3-2f64-44a1-82ca-45e8dc033d01",
       "url": "https://www.tesla.com/my/order/7SAYGDEE8PF862245?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Long Range Rear-Wheel Drive",
+      "price": 37100,
+      "miles": 30181,
+      "city": "Fremont",
+      "state": "CA",
+      "vin": "7SAYGDED8RF103850",
+      "hw": 4,
+      "color": {
+        "code": "$PN01",
+        "name": "Stealth Grey"
+      },
+      "range": 283,
+      "lat": 37.50753,
+      "lon": -121.9861,
+      "metro": "Fremont, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d770ba80-63eb-483e-b9f8-6a40690aead5",
+      "url": "https://www.tesla.com/my/order/7SAYGDED8RF103850?titleStatus=used&redirect=no"
     },
     {
       "year": 2024,
@@ -925,28 +925,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f54415f7-c3db-4c70-b107-596e1520ea41",
       "url": "https://www.tesla.com/my/order/7SAYGDED1TF530648?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2026,
-      "trim": "Premium All-Wheel Drive",
-      "price": 50600,
-      "miles": 4590,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEE5TF532542",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": null,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/7c71ab7c-b267-4117-b0d3-9de3d82dadf1",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE5TF532542?titleStatus=used&redirect=no"
     },
     {
       "year": 2026,
