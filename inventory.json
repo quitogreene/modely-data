@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T04:00:27.565Z",
-  "count": 47,
+  "updated": "2026-06-18T07:00:25.254Z",
+  "count": 46,
   "cars": [
     {
       "year": 2023,
@@ -665,28 +665,6 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 37900,
-      "miles": 28426,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE4PF825631",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 298,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/4725133e-828b-4d1e-bbb3-019f21ed3281",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE4PF825631?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
       "price": 38400,
       "miles": 25007,
       "city": "McClellan Park",
@@ -795,28 +773,6 @@
       "url": "https://www.tesla.com/my/order/7SAYGDEF5PF925469?titleStatus=used&redirect=no"
     },
     {
-      "year": 2024,
-      "trim": "Model Y Rear-Wheel Drive",
-      "price": 39100,
-      "miles": 3564,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDED9RF098299",
-      "hw": 4,
-      "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
-      },
-      "range": 224,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8f472981-44ba-4537-be22-ce77538372a4",
-      "url": "https://www.tesla.com/my/order/7SAYGDED9RF098299?titleStatus=used&redirect=no"
-    },
-    {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 39100,
@@ -837,6 +793,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d5f806a6-f031-4859-8512-824bdc85af2e",
       "url": "https://www.tesla.com/my/order/7SAYGDEE0PF830969?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2024,
+      "trim": "Model Y Rear-Wheel Drive",
+      "price": 39100,
+      "miles": 3564,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDED9RF098299",
+      "hw": 4,
+      "color": {
+        "code": "$PBSB",
+        "name": "Solid Black"
+      },
+      "range": 224,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8f472981-44ba-4537-be22-ce77538372a4",
+      "url": "https://www.tesla.com/my/order/7SAYGDED9RF098299?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
