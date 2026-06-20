@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T01:00:26.899Z",
+  "updated": "2026-06-20T04:00:27.247Z",
   "count": 53,
   "cars": [
     {
@@ -43,7 +43,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/947922b7-796a-4d1d-8d44-6d2853a262f5",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/3c4f859c-8397-4edd-9bc8-e5af3b070d52",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF789689?titleStatus=used&redirect=no"
     },
     {
@@ -116,7 +116,7 @@
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 32600,
-      "miles": 84654,
+      "miles": 84656,
       "city": "Fremont",
       "state": "CA",
       "vin": "7SAYGDEE6PF871462",
@@ -131,7 +131,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/e347c23e-bbd2-421a-813e-7a9c47653c15",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/5975829c-7bd3-44fb-ac6f-c11a16d840af",
       "url": "https://www.tesla.com/my/order/7SAYGDEE6PF871462?titleStatus=used&redirect=no"
     },
     {
@@ -153,7 +153,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "PREVIOUS ACCIDENT(S)",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/4cdc07e5-8f18-4a91-8bf7-479ccec4e23b",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/96d38163-5158-468f-a2eb-9778b61280f6",
       "url": "https://www.tesla.com/my/order/7SAYGAEE1PF842353?titleStatus=used&redirect=no"
     },
     {
@@ -197,30 +197,8 @@
       "metro": "Colma, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/3ff459be-33da-4c10-a368-52e47e099d5f",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/eb2efb93-4c7f-46e6-8ffc-d6efadac7e0b",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PA140102?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Model Y All-Wheel Drive",
-      "price": 34800,
-      "miles": 25004,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE7PA124160",
-      "hw": 4,
-      "color": {
-        "code": "$PPSW",
-        "name": "Pearl White Multi-Coat"
-      },
-      "range": 264,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ac16e97e-262c-4d91-9c75-13b99736b861",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7PA124160?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -241,8 +219,30 @@
       "metro": "Colma, CA",
       "deliveryFee": 0,
       "history": "PREVIOUS ACCIDENT(S)",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/aad3d2a7-843b-48b7-ab9b-19bf02bd3b67",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/c2da51e5-f535-4cfb-ab24-7ed2b19a363c",
       "url": "https://www.tesla.com/my/order/7SAYGDEF8PF795512?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Model Y All-Wheel Drive",
+      "price": 34800,
+      "miles": 25004,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEE7PA124160",
+      "hw": 4,
+      "color": {
+        "code": "$PPSW",
+        "name": "Pearl White Multi-Coat"
+      },
+      "range": 264,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/3060d14a-a2d6-414a-97c6-6058c6a0c150",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE7PA124160?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -263,7 +263,7 @@
       "metro": "Gilroy, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/799d4481-4ace-4e51-8d59-a5da82e577ca",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/26254732-549f-4ab9-917d-5e422fcf87b6",
       "url": "https://www.tesla.com/my/order/7SAYGDED1PF942512?titleStatus=used&redirect=no"
     },
     {
@@ -351,7 +351,7 @@
       "metro": "Gilroy, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/6e7e495b-4d8e-4878-a468-7251d1fb6cad",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/cf052262-c94b-402f-b048-85e0f6f56ae5",
       "url": "https://www.tesla.com/my/order/7SAYGDEF3PF814984?titleStatus=used&redirect=no"
     },
     {
@@ -373,7 +373,7 @@
       "metro": "Gilroy, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/85bee98b-fc8e-4b11-abb1-0d17dc84211d",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/bdde8514-6d4a-4560-adfa-30759752bdf3",
       "url": "https://www.tesla.com/my/order/7SAYGDEE8PF816558?titleStatus=used&redirect=no"
     },
     {
@@ -400,6 +400,28 @@
     },
     {
       "year": 2023,
+      "trim": "Performance All-Wheel Drive",
+      "price": 36000,
+      "miles": 42168,
+      "city": "Gilroy",
+      "state": "CA",
+      "vin": "7SAYGDEF1PF823487",
+      "hw": 4,
+      "color": {
+        "code": "$PPMR",
+        "name": "Red Multi-Coat"
+      },
+      "range": 262,
+      "lat": 36.996685,
+      "lon": -121.5576,
+      "metro": "Gilroy, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/b62b19ac-bdb7-4c9a-a3df-283fdd660b73",
+      "url": "https://www.tesla.com/my/order/7SAYGDEF1PF823487?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 36000,
       "miles": 41951,
@@ -419,28 +441,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/727ea02a-5602-4a65-8c7f-8e0cc15e0d22",
       "url": "https://www.tesla.com/my/order/7SAYGDEE1PF843777?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 36000,
-      "miles": 42168,
-      "city": "Gilroy",
-      "state": "CA",
-      "vin": "7SAYGDEF1PF823487",
-      "hw": 4,
-      "color": {
-        "code": "$PPMR",
-        "name": "Red Multi-Coat"
-      },
-      "range": 262,
-      "lat": 36.996685,
-      "lon": -121.5576,
-      "metro": "Gilroy, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/61baf48e-ad00-4b78-9e4d-9389b44163a3",
-      "url": "https://www.tesla.com/my/order/7SAYGDEF1PF823487?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -505,7 +505,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/b90e1893-bd38-4f55-a137-22bad52253b3",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/a554f9c9-d1c2-4be0-8cdd-62f593d28c0c",
       "url": "https://www.tesla.com/my/order/7SAYGDEE1PF824579?titleStatus=used&redirect=no"
     },
     {
@@ -527,14 +527,14 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/17b9bc26-9c7f-47db-867c-40d4bdc45006",
       "url": "https://www.tesla.com/my/order/7SAYGDEE2PF789812?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 36900,
-      "miles": 37445,
+      "miles": 37450,
       "city": "Fremont",
       "state": "CA",
       "vin": "7SAYGDEE2PF815521",
@@ -556,7 +556,7 @@
       "year": 2023,
       "trim": "Performance All-Wheel Drive",
       "price": 36900,
-      "miles": 34422,
+      "miles": 34428,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDEF2PF779113",
@@ -571,7 +571,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/abf28491-694a-404f-a6ea-3196ba3b9cc0",
       "url": "https://www.tesla.com/my/order/7SAYGDEF2PF779113?titleStatus=used&redirect=no"
     },
     {
@@ -593,7 +593,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/2d1a6fc4-6c97-465a-97fa-4e085e95df77",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/de3c09e4-1984-4da6-a0ed-97cfef34a0e0",
       "url": "https://www.tesla.com/my/order/7SAYGDED6PF961461?titleStatus=used&redirect=no"
     },
     {
@@ -637,7 +637,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/59c3ce50-5589-483b-900b-1f0024878f49",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d9a043fe-53dc-4d0c-ab56-21ecf3c4ca9d",
       "url": "https://www.tesla.com/my/order/7SAYGDEE7PF815045?titleStatus=used&redirect=no"
     },
     {
@@ -666,28 +666,6 @@
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 37300,
-      "miles": 30100,
-      "city": "Gilroy",
-      "state": "CA",
-      "vin": "7SAYGDEE7PF812842",
-      "hw": 4,
-      "color": {
-        "code": "$PPMR",
-        "name": "Red Multi-Coat"
-      },
-      "range": 292,
-      "lat": 36.996685,
-      "lon": -121.5576,
-      "metro": "Gilroy, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8136112c-d957-4c4f-b649-1b6ba4b0162d",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7PF812842?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 37300,
       "miles": 34289,
       "city": "McClellan Park",
       "state": "CA",
@@ -703,8 +681,30 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/93d8ac02-fa86-4f6c-a063-41e9d238155b",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/c66b9315-2f36-41ed-b1cb-60fc72b133a7",
       "url": "https://www.tesla.com/my/order/7SAYGDEE2PF815258?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 37300,
+      "miles": 30100,
+      "city": "Gilroy",
+      "state": "CA",
+      "vin": "7SAYGDEE7PF812842",
+      "hw": 4,
+      "color": {
+        "code": "$PPMR",
+        "name": "Red Multi-Coat"
+      },
+      "range": 292,
+      "lat": 36.996685,
+      "lon": -121.5576,
+      "metro": "Gilroy, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/ff7930ef-eb15-40a5-b143-71aaf6bf1475",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE7PF812842?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -725,7 +725,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/7185b375-0c60-4809-aec0-1e2cdb0c9ed3",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/5b18e41b-93c3-41d4-9df5-ef6481e01cc8",
       "url": "https://www.tesla.com/my/order/7SAYGDEE8PF812011?titleStatus=used&redirect=no"
     },
     {
@@ -747,7 +747,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": null,
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/40796a79-5c2b-4327-9d13-e31f2997c9fd",
       "url": "https://www.tesla.com/my/order/7SAYGDEF2PF814989?titleStatus=used&redirect=no"
     },
     {
@@ -769,7 +769,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/f5a79b40-780e-4b78-8027-45147c59ea3b",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/c99804e9-bac1-41b3-9b2f-05da5b376d8c",
       "url": "https://www.tesla.com/my/order/7SAYGDEE3PF805743?titleStatus=used&redirect=no"
     },
     {
@@ -791,7 +791,7 @@
       "metro": "Fremont, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/8a11ffb8-4a75-44e6-9491-7a341803bbc1",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/c0426f16-8e56-48d6-b306-61c993cf917b",
       "url": "https://www.tesla.com/my/order/7SAYGDEE6PF816803?titleStatus=used&redirect=no"
     },
     {
@@ -813,7 +813,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/fad8dc34-8fbc-4b36-ae38-7a05ab31f942",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/65682d82-a53e-4d53-af68-87e8d7d3590f",
       "url": "https://www.tesla.com/my/order/7SAYGDEE8PF822828?titleStatus=used&redirect=no"
     },
     {
@@ -835,7 +835,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/a2acf4af-ee05-44be-85d5-9f0970cdb208",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/49101ff7-e452-4e67-8a0e-dd3cfc28df7e",
       "url": "https://www.tesla.com/my/order/7SAYGDEE4PF811986?titleStatus=used&redirect=no"
     },
     {
@@ -901,7 +901,7 @@
       "metro": "McClellan Park, CA",
       "deliveryFee": 0,
       "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/1a9ab1f8-dd76-4a27-aa92-18b4053dc9f1",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/bdb9ffab-953e-4905-943e-02627b8686ca",
       "url": "https://www.tesla.com/my/order/7SAYGDED9RF098299?titleStatus=used&redirect=no"
     },
     {
