@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T22:00:26.279Z",
-  "count": 57,
+  "updated": "2026-06-21T01:00:27.216Z",
+  "count": 55,
   "cars": [
     {
       "year": 2023,
@@ -27,28 +27,6 @@
     {
       "year": 2023,
       "trim": "Long Range All-Wheel Drive",
-      "price": 30700,
-      "miles": 85318,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE7PF789689",
-      "hw": 4,
-      "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
-      },
-      "range": 272,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/e1c2c4ff-33a7-49dc-9a14-a6d2477bbb97",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7PF789689?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
       "price": 31500,
       "miles": 81456,
       "city": "Fremont",
@@ -67,28 +45,6 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/20b1e4e4-046b-4059-b061-6b7af5766adb",
       "url": "https://www.tesla.com/my/order/7SAYGDEE6PF810578?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
-      "trim": "Model Y All-Wheel Drive",
-      "price": 31900,
-      "miles": 44630,
-      "city": "Fremont",
-      "state": "CA",
-      "vin": "7SAYGDEE7PA137216",
-      "hw": 4,
-      "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
-      },
-      "range": 269,
-      "lat": 37.50753,
-      "lon": -121.9861,
-      "metro": "Fremont, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/40f29c8c-8524-4498-9ad5-8e70bec730e0",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE7PA137216?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -774,28 +730,6 @@
     },
     {
       "year": 2023,
-      "trim": "Long Range All-Wheel Drive",
-      "price": 37600,
-      "miles": 25007,
-      "city": "McClellan Park",
-      "state": "CA",
-      "vin": "7SAYGDEE4PF811986",
-      "hw": 4,
-      "color": {
-        "code": "$PMNG",
-        "name": "Midnight Silver Metallic"
-      },
-      "range": 290,
-      "lat": 38.64624,
-      "lon": -121.409294,
-      "metro": "McClellan Park, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/933e92a1-e95b-47af-91b0-aba43a378724",
-      "url": "https://www.tesla.com/my/order/7SAYGDEE4PF811986?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
       "trim": "Performance All-Wheel Drive",
       "price": 37600,
       "miles": 30685,
@@ -815,6 +749,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/65afcdef-2aa7-4e59-9a1b-32642af0c7c8",
       "url": "https://www.tesla.com/my/order/7SAYGDEF2PF814989?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Long Range All-Wheel Drive",
+      "price": 37600,
+      "miles": 25007,
+      "city": "McClellan Park",
+      "state": "CA",
+      "vin": "7SAYGDEE4PF811986",
+      "hw": 4,
+      "color": {
+        "code": "$PMNG",
+        "name": "Midnight Silver Metallic"
+      },
+      "range": 290,
+      "lat": 38.64624,
+      "lon": -121.409294,
+      "metro": "McClellan Park, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/933e92a1-e95b-47af-91b0-aba43a378724",
+      "url": "https://www.tesla.com/my/order/7SAYGDEE4PF811986?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
@@ -886,7 +842,7 @@
       "year": 2024,
       "trim": "Model Y Rear-Wheel Drive",
       "price": 38200,
-      "miles": 3564,
+      "miles": 3566,
       "city": "McClellan Park",
       "state": "CA",
       "vin": "7SAYGDED9RF098299",
