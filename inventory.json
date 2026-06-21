@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T04:00:26.386Z",
+  "updated": "2026-06-21T07:00:26.571Z",
   "count": 54,
   "cars": [
     {
@@ -510,28 +510,6 @@
     },
     {
       "year": 2023,
-      "trim": "Performance All-Wheel Drive",
-      "price": 36700,
-      "miles": 16211,
-      "city": "Colma",
-      "state": "CA",
-      "vin": "7SAYGDEF3PF795076",
-      "hw": 4,
-      "color": {
-        "code": "$PBSB",
-        "name": "Solid Black"
-      },
-      "range": 274,
-      "lat": 37.670635,
-      "lon": -122.46355,
-      "metro": "Colma, CA",
-      "deliveryFee": 0,
-      "history": "CLEAN",
-      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/4f9b8c16-acde-4728-b04e-6348df424592",
-      "url": "https://www.tesla.com/my/order/7SAYGDEF3PF795076?titleStatus=used&redirect=no"
-    },
-    {
-      "year": 2023,
       "trim": "Long Range All-Wheel Drive",
       "price": 36700,
       "miles": 36460,
@@ -551,6 +529,28 @@
       "history": "CLEAN",
       "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/d9f5dfa3-044d-4e48-a3b3-b61a2f980e37",
       "url": "https://www.tesla.com/my/order/7SAYGDEE2PF789812?titleStatus=used&redirect=no"
+    },
+    {
+      "year": 2023,
+      "trim": "Performance All-Wheel Drive",
+      "price": 36700,
+      "miles": 16211,
+      "city": "Colma",
+      "state": "CA",
+      "vin": "7SAYGDEF3PF795076",
+      "hw": 4,
+      "color": {
+        "code": "$PBSB",
+        "name": "Solid Black"
+      },
+      "range": 274,
+      "lat": 37.670635,
+      "lon": -122.46355,
+      "metro": "Colma, CA",
+      "deliveryFee": 0,
+      "history": "CLEAN",
+      "photo": "https://mytcore-inventory-assests.tesla.com/inventory/used/inspection/image/4f9b8c16-acde-4728-b04e-6348df424592",
+      "url": "https://www.tesla.com/my/order/7SAYGDEF3PF795076?titleStatus=used&redirect=no"
     },
     {
       "year": 2023,
